@@ -5,5 +5,10 @@ Make your Pi ready
 2. Run the following command and Pi-On will do the rest.
 
 ```sh
-./pi-on.sh
+sudo ./pi-on.sh <diskid>
+```
+
+For example
+```sh
+sudo ./pi-on.sh disk2
 ```
